@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ActionHome"
+        android:title="Bosh sahifa"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/ActionExpense"
+        android:title="Xarajatlar"
+        android:icon="@drawable/ic_eaderboard"/>
+    <item
+        android:id="@+id/ActionPrice"
+        android:title="Narxlar"
+        android:icon="@drawable/ic_price"/>
+    <item
+        android:id="@+id/ActionClub"
+        android:title="Beeline Club"
+        android:icon="@drawable/ic_bc_club"/>
+    <item
+        android:id="@+id/ActionHelp"
+        android:title="Yordam"
+        android:icon="@drawable/ic_help"/>
+</menu>
