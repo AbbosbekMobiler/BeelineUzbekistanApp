@@ -7,7 +7,9 @@
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/drawable/ic_cart.xml" value="0.1175" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/drawable/story_bacgroun.xml" value="0.1175" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/aksiya_item_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/beeline_product_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_aksiyalar.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_b_club.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_bugun.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_expense.xml" value="0.21388888888888888" />
@@ -19,6 +21,7 @@
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_tariflar.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_uch_kun.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_xizmatlar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/fragment_yangiliklar.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/home_price_item.xml" value="0.2" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/product_beeline_layout.xml" value="0.4" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/BeelineUzbekistan/app/src/main/res/layout/story_item_layout.xml" value="0.4603960396039604" />
